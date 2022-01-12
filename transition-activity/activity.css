@@ -1,1 +1,12 @@
+button {
+    
+    background-color:ghostwhite ;
+    transition: background-color 2s;
+    
+}
+
+button:hover {
+    color: white;
+    transition: 3s;
+}
 
